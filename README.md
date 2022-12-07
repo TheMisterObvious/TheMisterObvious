@@ -11,3 +11,9 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=themisterobvious&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=themisterobvious&layout=compact&theme=radical" />
+
+
+**Studio Evident**
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=studioevident&show_icons=true&include_all_commits=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=studioevident&layout=compact&theme=radical" />
