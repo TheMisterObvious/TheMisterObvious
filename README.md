@@ -13,8 +13,4 @@
 <br></br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=themisterobvious&theme=tokyonight" />
 <br></br>
-<br></br>
-**Studio Evident**
-<br></br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?organization=studioevident&show_icons=true&include_all_commits=true&theme=radical"/>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?organization=studioevident&layout=compact&theme=radical" />
+**[Studio Evident](https://github.com/StudioEvident)**
