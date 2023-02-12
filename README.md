@@ -11,6 +11,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheMisterObvious&icon=5&color=0)](https://visitcount.itsvg.in)
-
-# 📜 Codingame stats
-![JS Cartification](https://www.codingame.com/certification/WZ7oedQXbRYokpv9l_gGhg)
